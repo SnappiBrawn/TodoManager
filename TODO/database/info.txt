@@ -1,0 +1,1 @@
+import TodoManager as a SQL file into your database. Make sure to keep the database name the exac same. ie "TodoManager".
